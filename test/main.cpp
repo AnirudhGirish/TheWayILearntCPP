@@ -1,5 +1,5 @@
 #include <iostream>
-
+//  for further reference
 //can do these things in 2-3 ways i will write down all the ways
 
 //Way1
