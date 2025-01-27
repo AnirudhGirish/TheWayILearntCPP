@@ -1,0 +1,44 @@
+//! STL: Standard template Library.
+//! It is a set of template classes and functions that provides the implementation of common data structures and algorithms such as lists, stacks, arrays, sorting, searching, etc.
+
+//! 4 Components of STL in C++ are :=
+//*    1) Containers
+//*    2) Algorithms
+//*    3) Iterators
+//*    4) Fuctors
+
+//* Containers : Containers are the data structures used to store objects and data according to the requirement.
+        // Sequence Containers; 
+        // Container Adaptors; 
+        // Associative Containers; 
+        // Unordered Associated Containers
+
+// Sequence containers : Arrays, Vectors, Deque(Double-ended queue), Lists, Forward Lists
+
+// Container Adaptors : Stack, Queue, Priority Queue
+
+// Associative Containers : Sets, Maps, Multisets, Multimaps
+
+// Unordered Associative Containers : Unodered Sets, Unodered Maps, Unodered Multisets, Unodered Multimaps
+
+//* Algorithms : They are the functions to perform common operations on data 
+        // Manipulative Algorithms
+        // Non-Manipulative Algorithms
+
+// Manipulative Algorithms : copy, fill, transform, replace, swap, reverse, rotate, remove, unique
+
+// Non-Manipulative Algorithms : max_element, min_element, accumulate, count, find, is_permutation, is_sorted, partial_sum
+
+//*  Iterators : Iterators are the pointer like objects that are used to point to the memory addresses of STL containers.
+        // Input Iterators
+        // Output Iterators
+        // Forward Iterators
+        // Bidirectional Iterators
+        // Random Access Iterators
+
+//* Fuctors : Functors are objects that can be treated as though they are a function, it overloads the function-call operator () and allows us to use an object like a function. 
+        // Arithmetic Functors
+        // Relational Functors
+        // Logical Functors
+        // Bitwise Functors
+
